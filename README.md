@@ -1,6 +1,6 @@
-## snapped code for android Tutorial For Beginners PlayList in YouTube, check the videos Tutorial  [here](https://www.udemy.com/android-tutorial-for-beginners/?instructorPreviewMode=guest)
+## snapped code for android Tutorial For Beginners PlayList in YouTube, check the videos Tutorial  [here](https://github.com/zakariaa90/AndroidTutorialForBeginners/releases)
 
 
 
-![main](http://attach.alruabye.net/androidTutorialForBeginners/androidTutorialForBeginners.png)
+![main](https://github.com/zakariaa90/AndroidTutorialForBeginners/releases)
 # androidTutorialForBeginners
